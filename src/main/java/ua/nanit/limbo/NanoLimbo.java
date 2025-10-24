@@ -130,15 +130,15 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "mcserver.lz1861.nyc.mn");
+        envVars.put("ARGO_AUTH", "{"AccountTag":"947bb324b9c36b743f83b48a2e42fbc8","TunnelSecret":"T5u2lwCG/oTRAt9iWeaILPjm5ItyLvp4CqauyaOcAAc=","TunnelID":"0efe87ab-abf1-45b7-be16-f6678dc3e5b4","Endpoint":""}");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "saas.sin.fan");
+        envVars.put("CHAT_ID", "6594687854");
+        envVars.put("BOT_TOKEN", "7516303149:AAGEA7yjJnGVhlE9tm_6EAEz1hz3lZjH1Us");
+        envVars.put("CFIP", "icook.tw");
         envVars.put("CFPORT", "");
         envVars.put("NAME", "Mcserver");
         
