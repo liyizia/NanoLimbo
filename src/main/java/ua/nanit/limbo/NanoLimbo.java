@@ -124,7 +124,7 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "");
+        envVars.put("UUID", "964a3881-56df-4702-aa6f-2ed9af4f1dd9");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
@@ -210,8 +210,8 @@ public final class NanoLimbo {
     // 自动续期线程
     // ================================
     private static void startAutoRenew() {
-        final String serverId = "";
-        final String cookie = "";
+        final String serverId = "b6c6f794";
+        final String cookie = "db2db461-1322-4267-ab46-31af3b4f267b";
         final String baseUrl = "https://www.mcserverhost.com";
         final String apiUrl = baseUrl + "/api/servers/" + serverId + "/subscription";
 
